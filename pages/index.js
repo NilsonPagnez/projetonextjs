@@ -1,6 +1,7 @@
 import { Children } from "react"
 import Link from "../src/components/Link"
 
+
 function Title({ children, as }) {
 
     const Tag = as
@@ -9,13 +10,13 @@ function Title({ children, as }) {
             <Tag>
                 {children}
             </Tag>
-            <style jsx>{`
+            <style jsx>
+                {`
             ${Tag} {
                 color: red;
             }
 
         `}
-
             </style>
         </>
     )
@@ -23,6 +24,7 @@ function Title({ children, as }) {
 
 export default function HomePage() {
     return (
+
         <div>
             <Title as={'h1'}>Alura Cases - Home</Title>
             <Link href="/faq">
