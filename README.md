@@ -10,6 +10,6 @@ Projeto para iniciar os estudos com NextJs, usando como proposta a criação de 
 | :fire: Desafio     | https://cursos.alura.com.br/course/next-js-iniciando-framework
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](aluracases.png#vitrinedev)
 
 
